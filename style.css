@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/christmas-background-with-bokeh-and-snowflakes_1393-207.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703548800&semt=ais);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+table {
+    width: 100%;
+    margin-top: 60px;
+}
+
+table th, table td {
+
+    border: 3px solid rgb(0, 0, 0);
+    padding: 30px;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+    background-color: transparent;
+}
+
+th {
+    background-color: rgb(0, 0, 0);
+    color: rgb(7, 7, 7);
+}
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 150%;
+}
+section{
+    padding: 20px;
+}
+caption{
+    font-size: 200%;
+    color: rgb(0, 0, 0);
+}
